@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 import { AppBar } from 'react-toolbox/lib/app_bar';
-import Logo from './Logo.js';
+import Logo from './Image.js';
 import theme from './PurpleAppBar.css';
 
 const PurpleAppBar = ({ children, ...other }) => (
